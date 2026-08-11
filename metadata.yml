@@ -1,0 +1,12 @@
+---
+:id: 415927824
+:submitters:
+- :name: Nnedi Nwosu
+  :email: nnedinwosu2029@u.northwestern.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2026-06-05 00:03:11.926077000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2026-06-04 17:03:11.926077000 Z
+:status: processed
+:score: 97.0
